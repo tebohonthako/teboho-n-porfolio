@@ -31,7 +31,6 @@ Start the server
 
 ### More
 
-Modify pages content in  `src/content_option.js`.
 
 ### Thanks
 
