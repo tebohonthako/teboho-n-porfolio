@@ -32,7 +32,6 @@ Start the server
 ### More
 
 
-### Thanks
 
 ### How to bootstrap in react
 npm install bootstrap --save // Inside of your command line
@@ -59,3 +58,6 @@ import { Button } from 'react-bootstrap';
 
 ### Deployment
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4f6b20e4-97d2-44e2-9707-9a1adf9c4e17/deploy-status)](https://app.netlify.com/sites/teboho-nthako-portfolio/deploys)
+
+
+### Thanks
