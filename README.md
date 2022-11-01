@@ -2,7 +2,6 @@
 
 A simple portfolio to demonstrate my work as a developer built with React. 
 
-### [live preview](https://teboho-nthako-portfolio.github.io/react-portfolio/)
 
 [![react portfolio] (https://teboho-nthako-portfolio.netlify.app/)
 
