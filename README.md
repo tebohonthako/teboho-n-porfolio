@@ -11,7 +11,7 @@ A simple portfolio to demonstrate my work as a developer built with React.
 - Multi-Page Layout
 - Contact Form With EmailJs
 - React-Bootstrap
-- Edit Content From One Place
+
 
 ### Setup
 
