@@ -1,4 +1,4 @@
-const logotext = "TEBOHO";
+const logotext = "TEBOHO NTHAKO";
 const meta = {
     title: "Teboho Nthako",
     description: "Aspirant Full-stack developer_ and I love to craft solid & scalable software with great user-experiences.",
@@ -7,72 +7,77 @@ const meta = {
 const introdata = {
     title: "I’m Teboho Nthako",
     animated: {
-        first: "I'm a self-motivated software developer",
-        second: "A JavaScript enthusiast",
+        first: "I'm a self-motivated software engineer",
+        second: "JavaScript enthusiast",
         third: "Love building cool web applications",
     },
-    description: "I love combining the worlds of logic and creative design to make beautiful, accessible and user-friendly websites and applications. I value myself on being a great contribution to any team. And that is why I want to be a developer at SovTech. ",
+    description: "I love combining the worlds of logic and creative design to make beautiful, accessible and user-friendly websites and applications. I value myself on being a great contribution to any team. And that is why it is my mission to be a software developer at SovTech. ",
     your_img_url: "https://www.instagram.com/p/CZpM3SaM8dI/",
 };
 
 const dataabout = {
     title: "About myself",
-    aboutme: "Hello World! My name is Teboho Nthako, An aspirant full-stack developer based in Johannesburg. I'm a Biological science Honors graduate who fell in love with code and the problem-solving of it all. I love to craft solid & scalable software with great user-experiences. In my spare time you'll catch me on Youtube watching my favorite vloggers, cooking, creating content or working on my personal projects that expose me to new programming languages and technologies. #Tech is the future!  ",
+    aboutme: "Hello World! My name is Teboho Nthako, An aspirant full-stack developer based in Johannesburg. I'm a Biological science Honors graduate who fell in love with code and the problem-solving of it all. I love to craft solid & scalable software with great user-experiences. In my spare time you'll catch me on Youtube watching my favorite vloggers, cooking, creating fashion content or working on my personal projects that expose me to new programming languages and technologies. I believe people who make tech should be predominantly connected to the problems we face everyday. ",
 };
 const worktimeline = [{
-        jobtitle: ".NET Programming Apprentice/Intern",
+        jobtitle: "Cloud computing apprenticeship",
         where: "Deviare",
-        date: "2022",
+        date: "Nov 2020 - April 2022",
+    },
+    {
+        jobtitle: ".NET Programming Apprenticeship",
+        where: "Deviare",
+        date: "Sep 2022 - Jan 2023",
     },
 ];
 
 const skills = [{
-        name: "HTML",
-        value: 90,
-    },
-    {
-        name: "CSS",
-        value: 90,
+        name: "HTML & CSS",
+        value: 95,
     },
     {
         name: "JavaScript",
-        value: 80,
+        value: 90,
     },
     {
         name: "ReactJS",
-        value: 80,
+        value: 90,
     },
     {
-        name: "GitHub",
-        value: 85,
+        name: "Git",
+        value: 90,
     },
     {
         name: "Netlify",
-        value: 85,
+        value: 90,
+    },
+    {
+        name: "GitHub",
+        value: 90,
     },
 ];
 
 const services = [{
-        title: "Software developemnet / Web development",
-        description: "my projects are front-end and back-end, and love seeing my work come to life.",
+        title: "Software development / Web development",
+        description: "",
     },
     
 ];
 
 const dataportfolio = [{
         img: "https://picsum.photos/400/?grayscale",
-        description: "my MovieLand react-app.",
+        description: "MovieLand react-app.",
         link: "https://teboos-movieland.netlify.app/",
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
-        description: "Clone of the Tesla Landing page [ZAIO Bootcamp].",
+        description: "My Clone of the Tesla Landing page.",
         link: "https://teboho-tesla-landing-page.netlify.app/",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
-        description: "My Portfolio",
-        link: "#",
+        description: "My Portfolio of work as a Developer",
+        link: "https://teboho-nthako-portfolio.netlify.app/",
     },
     
 ];
@@ -80,7 +85,7 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "tjaynthako@gmail.com",
     YOUR_FONE: "(+27) 7644-34084",
-    description: "Get in touch with me.",
+    description: "Let's connect.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_crt4r4b",
@@ -91,6 +96,7 @@ const contactConfig = {
 const socialprofils = {
     github:   "https://github.com/tebohonthako",
     linkedin: "https://www.linkedin.com/in/tebohonthako/",
+    twitter: "https://twitter.com/tebooo_n",
 };
 export {
     meta,
