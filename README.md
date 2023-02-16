@@ -38,7 +38,7 @@ npm install bootstrap --save // Inside of your command line
 import 'bootstrap/dist/css/bootstrap.min.css'; // Inside of your index.js
 
 ### How to Add Bootstrap to React
-//1.run following commnad in cmd:
+//1.run following the command in cmd:
 
 
 npm install bootstrap --save
