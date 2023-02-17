@@ -12,7 +12,7 @@ const introdata = {
         third: "Love building cool web applications",
     },
     description: "I love combining the worlds of logic and creative design to make beautiful, accessible and user-friendly websites and applications. I value myself on being a great contribution to any team. And that is why it is my mission to be a software developer at SovTech. ",
-    your_img_url: "https://www.instagram.com/p/CZpM3SaM8dI/",
+    your_img_url: " ",
 };
 
 const dataabout = {
