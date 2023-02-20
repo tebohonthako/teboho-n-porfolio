@@ -17,14 +17,14 @@
     "react-helmet-async": "^1.0.7",
     "react-icons": "^4.1.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "^5.0.1",
+    "react-scripts": "4.0.1",
     "react-transition-group": "^4.4.2",
     "typewriter-effect": "^2.18.2",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
-    "build": "react-script --openssl-legacy-provider build",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "yarn build && cp build/index.html build/404.html",
@@ -50,6 +50,7 @@
   },
   "description": "A simple portfolio to demonstrate my work as a developer built with React.",
   "main": "index.js",
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tebohonthako/teboho-n-porfolio.git"
