@@ -9,15 +9,15 @@ const introdata = {
     animated: {
         first: "I'm a self-motivated software engineer",
         second: "JavaScript enthusiast",
-        third: "Love building cool web applications",
+        third: "I code cool websites",
     },
-    description: "I love combining the worlds of logic and creative design to make beautiful, accessible and user-friendly websites and applications. I value myself on being a great contribution to any team. And that is why it is my mission to be a software developer at SovTech. ",
+    description: "I love combining the worlds of logic and creative design to make beautiful, accessible and user-friendly websites and applications. I value myself on being a great contribution to any team. And that is why it is my mission to be a software developer at SovTech.",
     your_img_url: "https://www.instagram.com/p/CZpM3SaM8dI/",
 };
 
 const dataabout = {
     title: "About myself",
-    aboutme: "Hello World! My name is Teboho Nthako, An aspirant full-stack developer based in Johannesburg. I'm a Biological science Honors graduate who fell in love with code and the problem-solving of it all. I love to craft solid & scalable software with great user-experiences. In my spare time you'll catch me on Youtube watching my favorite vloggers, cooking, creating fashion content or working on my personal projects that expose me to new programming languages and technologies. I believe people who make tech should be predominantly connected to the problems we face everyday. ",
+    aboutme: "Hello World! My name is Teboho Nthako, An aspirant full-stack developer based in Johannesburg. I'm a Biological science Honors graduate who fell in love with code and the problem-solving of it all. I love to craft solid & scalable software with great user-experiences. In my spare time you'll catch me trying out new recipes from pinterest, creating fashion content for my YT channel or working on my personal projects that expose me to new programming languages and technologies. I believe people who make tech should be predominantly connected to the problems we face everyday.",
 };
 const worktimeline = [{
         jobtitle: "Cloud computing apprenticeship",
@@ -59,7 +59,7 @@ const skills = [{
 
 const services = [{
         title: "Software development / Web development",
-        description: "",
+        description: "Looking to work on web applications and mobile apps that help make people's lives alot easier.",
     },
     
 ];
@@ -96,7 +96,7 @@ const contactConfig = {
 const socialprofils = {
     github:   "https://github.com/tebohonthako",
     linkedin: "https://www.linkedin.com/in/tebohonthako/",
-    twitter: "https://twitter.com/tebooo_n",
+    twitter:  "https://twitter.com/tebooo_n",
 };
 export {
     meta,
