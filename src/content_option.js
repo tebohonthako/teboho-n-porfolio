@@ -76,8 +76,13 @@ const dataportfolio = [{
     },
     {
         img: "https://picsum.photos/400/?grayscale",
-        description: "My Portfolio of work as a Developer",
+        description: "My Portfolio of work as a Developer using React",
         link: "https://teboho-nthako-portfolio.netlify.app/",
+    },
+    {
+        img: "https://picsum.photos/400/600/?grayscale",
+        description: "A blog on Brown Bears - HTML",
+        link: "https://teboho-brown-bear-blog.netlify.app/",
     },
     
 ];
